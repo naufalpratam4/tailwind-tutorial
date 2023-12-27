@@ -1,12 +1,12 @@
 import React from "react";
 import Button1 from "../../Part 1/button/Button1";
-
+import HeroImage from "../../../../public/icon/hero.svg";
 function Hero() {
   return (
     <div className="md:flex md:mx-auto pt-2 text-center ">
       {/* kanan */}
       <div className="flex md:w-3/4 justify-center order-2">
-        <img src="public/icon/hero.svg" alt="" />
+        <img src={HeroImage} alt="" />
       </div>
 
       {/* kiri */}
