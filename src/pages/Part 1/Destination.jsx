@@ -1,8 +1,8 @@
 import React from "react";
 import { ArrowBackIcon, ArrowForwardIcon } from "@chakra-ui/icons";
-import ButtonCircle from "../../components/button/ButtonCircle";
+// import ButtonCircle from "../../components/Part 1/button/ButtonCircle";
 import { Stack, Button } from "@chakra-ui/react";
-import CardDestination from "../../components/card/CardDestination";
+import CardDestination from "../../components/Part 1/card/CardDestination";
 function Destination() {
   return (
     <>
