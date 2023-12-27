@@ -1,6 +1,6 @@
 import React from "react";
-import IconIon from "../../components/Icon/IconIon";
-import Button1 from "../../components/button/Button1";
+// import IconIon from "../../components/Part 1/Icon/IconIon";
+import Button1 from "../../components/Part 1/button/Button1";
 
 function Hero() {
   return (
